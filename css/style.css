@@ -1,0 +1,468 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   list-style: none;
+}
+
+.header {
+   margin: auto;
+   background: #fff;
+   position: fixed;
+   z-index: 99;
+   width: 100%;
+}
+
+.ravi img{width: 100%;}
+.py-4 {
+   padding-top: 1.5rem;
+   padding-bottom: 1.5rem;}
+   .hero {
+      background-color: #eee;
+      padding-top: 80px;}
+   .hero h2 {
+      font-family: 'Shantell Sans', cursive;
+      font-size: 40px;
+      font-weight: 500;
+      margin-bottom: 20px;}
+      .hero h2 p {
+         margin-top: 0;
+         margin-bottom: 1rem;}
+
+.button-1{width: 135px;}
+
+
+
+.btn_section {
+   width: 285px;
+   justify-content: space-between;
+   margin-top: 5rem;}
+.btn_section .btn_1 {
+   display: block;
+   text-decoration: none;
+   color: #fff;
+   background-color: #dc3545;
+   padding: 10px 25px;
+   border-radius: 10px;}
+   .btn_section .btn_1:hover{color: #fff; background: red;}
+   .watch_btn {
+      font-size: 18px;
+      align-items: center;
+      display: flex;}
+      .watch_btn i {
+         font-size: 30px;
+         color: red;
+         margin-right: 5px;}
+         .watch_btn span {
+            color: black; }
+         .btn_section a{text-decoration: none;}  
+
+/* ........ */
+.fist {
+   text-align: center;
+   margin-top: 3rem;
+}
+
+.fist h4 {
+   font-size: 15px;
+}
+
+.fist p {
+   font-family: 'Shantell Sans', cursive;
+   font-size: 35px;
+}
+
+ .fist span {
+   color: #dc3545;
+}
+
+
+
+#image {
+   background-image: url(../images/img2.jpeg);
+   height: 700px;
+   background-size: cover;
+   background-repeat: no-repeat;}
+
+.call_us {
+    left: 10%;
+    right: 10%;
+    bottom: 10%;
+    background-color: #fff;
+    box-shadow: 0px 2px 25px rgb(0 0 0 / 8%);
+    padding: 20px;
+    text-align: center;}
+    .call_us h4 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 5px;}
+      .call_us p {
+         color: rgb(206 18 18);
+         font-weight: bold;
+         margin-bottom: 5px;
+         font-size: 28px; 
+         font-family: 'Shantell Sans', cursive;}
+/* ............ */
+
+         #why_us {
+            background-color: #ddd;
+            padding-bottom: 2.5rem;}
+
+
+
+/*......... main.......... */
+
+#why_us {
+   background-color: #ddd;
+   padding-bottom: 2.5rem;}
+   #why_us_row {
+      padding-top: 5rem;}
+   .why_box {
+      background-color: rgb(211, 47, 25);
+      color: white;
+      height: 100%;
+      padding: 28px 20px 28px 20px;}
+      .why_box h3 {
+         font-size: 45px;
+         font-weight: bold;}
+         .why_box p {
+            margin-top: 0;
+            margin-bottom: 1rem; }
+            .text-center {
+               text-align: center!important;}
+               .why_box a {
+                  text-decoration: none;
+                  color: #fff;
+                  padding: 6px 35px 8px 35px;
+                  background: rgba(255, 255, 255, 0.3);
+                  border-radius: 20px;
+                  display: inline-block;
+                  margin-top: 15px;}
+                  .why_box a:hover {
+                     background-color: #fbfbfb;
+                     color: #c91426;}
+                     .pt-3 {
+                        padding-top: 1rem!important;}
+                        .icon_box {
+                           padding: 20px;
+                           background: white;}
+                           .icon_box i {
+                              font-size: 32px;
+                              color: red;
+                              margin-bottom: 10px;
+                              background: rgba(206, 18, 18, 0.1);
+                              width: 65px;
+                              height: 65px;
+                              border-radius: 50px;
+                              display: flex;
+                              align-items: center;
+                              justify-content: center;
+                              margin: 20px 0px;}
+                              .icon_box h4 {
+                                 margin: 10px 0px;}
+                                 
+
+/* .......star....... */
+.back{background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../images/furti.jpeg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   width: 100%;
+   height: 300px;}
+   .ram_box{display: flex; justify-content: space-between;}
+.star{padding: 100px 0px;}
+ .star span{font-size: 48px; color: #fff; font-weight: bold;}  
+ .star p{font-size: 16px; color: #ccc; font-weight: 700;}  
+
+ .text-header{text-align: center; margin-bottom: 3rem;}
+ .text-header h3{color: #dc3545; font-size: 2.2rem; }
+ .mi img{padding: 2rem;text-align: center;width: 95%; }
+
+ .mi h4{text-align: center; font-size: 24px; color: rgb(18, 14, 14);}
+ .mi p{text-align: center; font-size: 20px; color: rgb(109, 100, 100);}
+ .mi .pp{color: rgb(202, 51, 51); font-size: 28px;font-weight: 700;}
+
+ .main-2{ background: #eeeeee;
+   margin-top: 1rem;}
+
+   .img-2 img{ border-radius: 100%;
+              border: 5px solid #edd9d9;
+            width: 100%; margin-top: 3rem;margin-bottom: 2rem;margin-left: 4rem;}
+            .img img {
+               height: auto;
+               display: block;
+               width: 100%;}
+               .hvr-grow {
+                  transition: .5s;}
+                  .about_right li i {
+                     color: rgb(223, 39, 39);
+                     font-size: 24px;}
+
+   .five{margin-left: 11rem;}
+   .five p{line-height: 40px;padding-top: 2rem;}   
+   .five i{color: #d2691e; font-size: 25px;}
+   .five h4{font-family: 'Shantell Sans', cursive;}
+   .five h5{font-size: 16px;color: #d2691e;margin-bottom: 1rem;}
+   .stars i{ color: #dc3545; font-size: 18px; }
+   .fist{padding-top: 30px;}
+   .img a {
+      font-size: 70px;
+      color: crimson;}
+
+/* EVENT */
+
+.event_img a img {
+   opacity: 0.7; width: 100%; }
+   .img_detail {
+      position: absolute;
+      bottom: 5%;
+      left: 2%;}
+      .event_item {
+         position: relative;}
+         .img_detail h2 {
+            color: #fff;
+            font-weight: bold;}
+            .event_item .price {
+               color: #fff;
+               font-weight: bold;
+               font-size: 28px;
+               border-bottom: 2px solid black;
+               width: 60px;
+               margin-bottom: 10px;}
+               
+               .img_detail p {font-size: 16px;
+                         color: #ddd;
+                          margin-top: 0;
+                         margin-bottom: 1rem}
+
+
+/* CHEFS */
+
+ .CHEFS{background: #eeeeee; padding: 50px 0;} 
+ .card-body{background: #fff; text-align: center;}       
+ .card-body h5{font-size: 18px;font-weight: 600;}
+ .card-body span{font-size: 16px;
+                 color: #7f7f90;}
+   .card-body p {font-style: italic;
+                   margin-top: 5px;
+                   color: #5d5d68;}
+
+
+ .card img{position: relative;}                  
+ .socia_icon {position: absolute;
+                      top: 7%;
+                      right: 7%;
+                      z-index: 9;
+                      background-color: #eee;
+                      border-radius: 5px;
+                      opacity: 0;
+                      padding: 10px;}
+
+                      .socia_icon a {
+                        display: block;
+                        font-size: 20px;
+                        color: #5d5d68;}                     
+                   /*............  */
+
+                   
+.form_img img {
+                width: 100%;
+                display: block;}
+.form_box{background-color: #eee;}
+.gy-4 {--bs-gutter-y: 1.5rem; margin-top: 20px}
+.form-control {
+   display: block;
+   width: 100%;
+   border-radius: 0;
+   padding: 12px 15px;
+   margin-top: 20px;
+   outline-style: none;}
+.group_btn a{  background-color: rgb(202, 51, 51);
+   color: #fff;
+   font-size: 16px;
+   padding: 15px 50px;
+   text-decoration: none;
+   border-radius: 30px;}
+.group_btn{text-align: center;margin-top: 25px;}
+.group_btn a:hover{background: #ff0000;}
+
+.box-last{background: #eee; }
+.slider{margin-top: 3rem;}      
+.immg img{width: 100%; margin-bottom: 6rem;}
+
+
+
+
+
+
+
+.box-2{    background-color: #eee;
+   display: flex;
+   align-items: center;
+   padding: 25px; }
+
+   .box-2 i{ display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 56px;
+      height: 56px;
+      font-size: 24px;
+      line-height: 0;
+      color: rgb(251, 251, 251);
+      background: red;
+      border-radius: 50%;
+      margin-right: 15px;display: inline-flex;  }
+      
+ .box-2 i:hover{background:#c01e1e;}
+ .item h3{color: #6c757d;}     
+ .item p{margin-top: 0;margin-bottom: 1rem;}
+   
+
+.group_btn button{  background-color: rgb(214, 18, 18);
+      border: none;
+      margin-top: 40px;
+      padding: 15px 50px;
+      border-radius: 50px;
+      color: #fff;}
+.group_btn button:hover{background: #ff0000;}
+
+/********************** (jq) ***************************/
+.basraj{
+   width: 640px;
+   height: auto;
+   margin: auto;
+   background-color: #ccc;
+   margin-top: 30px;
+  
+}
+#form_group_btn button{
+   background-color:#c91426;
+   padding: 12px 50px;
+   border-radius: 30px;
+   border:  none;
+   font-size: 18px;
+   color: #fff;
+}
+#form_group_btn button:hover{
+   background-color: red
+}
+
+/* ____________________________ open form _________________________________ */
+
+.modal {
+   display: none; 
+   
+   height: 100%; /* Full height */
+   overflow: auto; /* Enable scroll if needed */
+   background-color: rgb(0,0,0); /* Fallback color */
+   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+ }
+ 
+ /* Modal Content/Box */
+ .modal-content {
+   background-color: #fefefe;
+   margin: 15% auto; /* 15% from the top and centered */
+   padding: 20px;
+   border: 1px solid #888;
+   width: 80%; /* Could be more or less, depending on screen size */
+ }
+ 
+ /* The Close Button */
+ .close {
+   color: #aaa;
+   float: right;
+   font-size: 28px;
+   font-weight: bold;
+ }
+ 
+ .close:hover,
+ .close:focus {
+   color: black;
+   text-decoration: none;
+   cursor: pointer;
+ }
+ 
+ .ram00 button{margin-top: 2rem; }
+/* ____________________________ open form _________________________________ */
+
+
+
+
+
+
+
+
+/*footer */
+     .footer {background-color:#1f1f24; padding: 40px 0px; margin-top: 4rem;}
+     .fo{padding: 50px 0px;}
+     .foot h3{color: #fff;margin-bottom: 1rem;}
+     .foot p{color: #ccc; }
+     .foot p b{font-weight: bolder;}
+     .ii i{color: #fff; margin-right: 15px; font-size: 24px;}
+     .ii i:hover{color: #dc3545;}
+     .social-icon a{color: #1f1f24;}
+     .social-icon a i{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      font-size: 18px;
+      color: rgba(255, 255, 255, 0.7);
+      margin-right: 10px;
+      transition: 0.3s;}
+      
+
+ .last{text-align: center; margin-top: 25px; margin-top: 5rem;}
+ .last p {color: #ccc; margin-bottom: 1rem;}     
+ .last-1 P{color: #ccc; text-align: center;}
+ .last-1 a{color: #fff; margin-left: 5px;}
+
+
+ 
+ 
+ @media (max-width: 990px){
+   
+   .ravi img{width: 60%;}
+      
+      .img-2 img {width: 50%;}
+      .img_detail p{font-size: 10px;}
+      .img_detail h2{font-size: 25px;}
+      .event_item .price{font-size: 15px;}
+}
+@media (max-width: 880px){
+   .social-icon a i{width: 50%; height: 20px;}
+
+}
+
+
+@media (max-width: 770px){
+   .hero h2{
+      margin-top: 54px !important;}
+      .event_img a img{padding: 10px;}
+      .img_detail p{font-size: 30px;}
+      .img_detail h2{font-size: 50px;}
+      .event_item .price{font-size: 30px;}
+      .social-icon a i{width: 50%; height: 20px;}
+}
+@media  ( max-width: 600px) {
+   .hero h2{
+      margin-top: 54px !important;}
+      .ravi img{width: 60%;}
+      
+      .img-2 img {width: 50%;}
+      .event_img a img{padding: 10px;}
+      .img_detail p{font-size: 17px;}
+      .img_detail h2{font-size: 50px;}
+      .event_item .price{font-size: 20px;}
+      .fo{width: 70%;} 
+      .star span{font-size:25px ;}  
+      .star p{font-size:8px ;}      
+ }
+
+
+
